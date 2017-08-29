@@ -1,6 +1,6 @@
 public class WhiteRose extends Flower{
 	public WhiteRose(){
-		description = "Flower";
+		description = "White rose";
 	}
 
 	@Override

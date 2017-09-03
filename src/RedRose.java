@@ -1,10 +1,10 @@
 public class RedRose extends Flower{
 	public RedRose(){
-		description = "Red Rose";
+		description = "°ÿÀ≈“∫·¥ß";
 	}
 
 	@Override
 	public double cost() {
 		// TODO Auto-generated method stub
-		return 1000;
+		return 30;
 	}}

@@ -8,7 +8,7 @@ Flower Flower;
 	@Override
 	public String getDescription() {
 		// TODO Auto-generated method stub
-		return Flower.getDescription()+",gift";
+		return Flower.getDescription()+",ของขวัญ";
 	}
 	
 	public double cost(){

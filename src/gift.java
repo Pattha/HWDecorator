@@ -1,9 +1,9 @@
-public class gift extends Decoration {
+ public class gift extends Decoration {
 Flower Flower;
-	
-	public gift (Flower Flower){
-		this.Flower = Flower;
-	}
+		
+		public gift (Flower Flower){
+			this.Flower = Flower;
+		}
 
 	@Override
 	public String getDescription() {
